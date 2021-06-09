@@ -1,17 +1,18 @@
 {
-	"files": {
-		"index.js": "f0d6befa3bcee8f575edd032b4e523a0dc3fd5ce5d8f67d3d12350975b068fe0"
-	},
-	"defs": {
-		"C_ADMIN": 1,
-		"C_CONFIRM_UPDATE_NOTIFICATION": "raw",
-		"C_PLAYER_LOCATION": 5,
-		"S_ANNOUNCE_UPDATE_NOTIFICATION": 1,
-		"S_CREATURE_CHANGE_HP": 6,
-		"S_INSTANT_MOVE": 3,
-		"S_LOAD_TOPO": 3,
-		"S_LOGIN": 14,
-		"S_PLAYER_STAT_UPDATE": [14,15],
-		"S_SPAWN_ME": 3
-	}
+    "files": {
+        "README.md": "b913555ee80760f605c7a2f6744afebf3041a98c516ea0b96bbb416b320e2213",
+        "index.js": "535d872984d056a313fdc5dd383615a9a949495643aa100800878347ea1e5e87",
+        "module.json": "80b717674a3edc7e97f64bad0f448eabeff3e87307fd28bdd0ffdad6346926c2"
+    },
+    "defs": {
+        "C_ADMIN": 1,
+        "C_PLAYER_LOCATION": 5,
+        "S_ANNOUNCE_UPDATE_NOTIFICATION": 1,
+        "S_CREATURE_CHANGE_HP": 6,
+        "S_INSTANT_MOVE": 3,
+        "S_LOAD_TOPO": 3,
+        "S_LOGIN": 14,
+        "S_PLAYER_STAT_UPDATE": 15,
+        "S_SPAWN_ME": 3
+    }
 }

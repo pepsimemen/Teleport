@@ -1,12 +1,12 @@
 {
-	"disableAutoUpdate": true,
-	"name": "Teleport",
-	"author": "Fukki",
-	"description": "Move your ass to everywhere in same zone.",
-	"version": "Kappa :v",
-	"options": {
-		"niceName": "TP"
-	},
-	"servers": ["https://raw.githubusercontent.com/Fukki/teleport/master/"],
-	"supportUrl": "https://github.com/Fukki/teleport/issues/"
+    "disableAutoUpdate": false,
+    "name": "Teleport",
+    "author": "Fukki, pep :)",
+    "description": "Move your ass to everywhere in same zone.",
+    "version": "Kappa :v",
+    "options": {
+        "niceName": "TP"
+    },
+    "servers": ["https://raw.githubusercontent.com/pepsimemen/teleport/master/"],
+    "supportUrl": "https://github.com/pepsimemen/teleport/issues/"
 }
